@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": ".NET Core Launch (console)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/tests/Files.InteractionTests/bin/Debug/net8.0/Files.InteractionTests.dll",
+        "args": [],
+        "cwd": "${workspaceFolder}/tests/Files.InteractionTests",
+        "stopAtEntry": false,
+        "justMyCode": false,
+        "console": "integratedTerminal"
+      }
+    ]
+  }
+  
